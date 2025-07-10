@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "ImagineSMPco.aternos.me:53594", 
+    "ip": "ImagineSMPco.aternos.me", 
     "port": 53594,   
     "version": "1.12.1"   
   },
