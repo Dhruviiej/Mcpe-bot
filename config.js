@@ -16,7 +16,7 @@ module.exports = {
   
   // Chat settings
   chat: {
-    intervalMinutes: 2,  // Send chat command every 2 minutes
+    intervalMinutes: 1,  // Send chat command every 2 minutes
     commands: [
       '/lagg clear',
       '/lagg gc',
